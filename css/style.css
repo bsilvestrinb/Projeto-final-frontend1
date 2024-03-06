@@ -1,0 +1,98 @@
+.container {
+    background-color: black;
+    display: flex;
+    height: 100vh;
+
+}
+
+.left {
+    background-color: #E4E4DE;
+    width: 20vw;
+    text-align: center;
+}
+
+.content {
+    background-color: #C4C5BA;
+    width: 80vw;
+
+}
+
+.profileimg {
+    border-radius: 100px;
+    width: 70%;
+    position: relative;
+    top: 25%
+    
+}
+    
+
+.menu-raiz {
+    position: relative;
+    top: 30%;
+}
+
+.nome {
+    font-size: 50px;
+    font-family: "Kanit", sans-serif;
+    font-weight: 700;
+    font-style: normal;
+    color: #1B1B1B;
+    position: relative;
+    top: 30vh;
+    left: 30px;
+
+}
+
+.adress {
+    font-size: 20px;
+    font-family: "Kanit", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    position: relative;
+    top: 23vh;
+    left: 30px;
+}
+
+.bio {
+    font-family: "Kanit", sans-serif;
+    font-weight: 300;
+    font-style: normal;
+    position: relative;
+    top: 23vh;
+    left: 30px;
+    max-width: 900px;
+}
+
+a {
+    text-decoration: none;
+    font-family: "Kanit", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    color: #1B1B1B;
+}
+a:hover {
+    color: gray; 
+    font-size: 15px;   
+}
+
+.redes {
+    position: relative;
+    top: 23vh;
+    left: 30px;
+    max-width: 900px;
+}
+
+.icon {
+    width: 40px;
+    padding: 20px 10px 10px 0px;
+}
+
+.lista {
+    font-size: 25px;
+    font-family: "Kanit", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    position: relative;
+    top: 30vh;
+    left: 30px;
+}
